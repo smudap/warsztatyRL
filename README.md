@@ -1,6 +1,36 @@
 # Warsztaty Reinforcement Learning
 
-## Instalacja
+## Teoria
+
+![ ](https://www.52coding.com.cn/images/aae.png )
+
+### Markov process
+
+![ ](https://www.52coding.com.cn/images/markov.png)
+
+### Markov reward process
+
+![ ](https://www.52coding.com.cn/images/mrp.png)
+
+![ ](https://www.52coding.com.cn/images/gamma0.9.png)
+
+![ ](https://www.52coding.com.cn/images/gamma1.png)
+
+### Markov decision process
+
+![ ](https://www.52coding.com.cn/images/mdpstu.png)
+
+### Bellmann equation
+
+![ ](https://cdn-images-1.medium.com/max/1600/1*jamiG5MkFVHLTFmLggemVg.png)
+
+### Q-learning
+
+![ ](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c389edfb9c4342c07a9adad55a3f554a8d2242c)
+
+## Warsztaty
+
+### Instalacja
 
 Podczas warsztatów będziemy korzystać z wirtualnego środowiska z Pythonem 3.5 (dla Pythona 3.6 powinno też działać). Jeśli ktoś nie ma zainstalowanego `virtualenv`, to robi się to komendą:
 
