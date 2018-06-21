@@ -12,7 +12,6 @@
 
 ![ ](https://www.52coding.com.cn/images/mrp.png)
 
-![ ](https://www.52coding.com.cn/images/gamma0.9.png)
 
 ![ ](https://www.52coding.com.cn/images/gamma1.png)
 
